@@ -1,0 +1,11 @@
+2020-04-18 16:27:25,495 [main] WARN  org.eclipse.jgit.util.FS - Cannot run program "git" (in directory "\usr\bin"): CreateProcess error=2, Det går inte att hitta filen
+2020-04-18 16:28:09,141 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-18 16:34:43,821 [main] WARN  org.eclipse.jgit.util.FS - Cannot run program "git" (in directory "\usr\bin"): CreateProcess error=2, Det går inte att hitta filen
+2020-04-18 16:35:09,687 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-22 18:04:14,597 [main] WARN  org.eclipse.jgit.util.FS - Cannot run program "git" (in directory "\usr\bin"): CreateProcess error=2, Det går inte att hitta filen
+2020-04-22 18:04:45,491 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-25 18:57:54,313 [main] WARN  org.eclipse.jgit.util.FS - Cannot run program "git" (in directory "\usr\bin"): CreateProcess error=2, Det går inte att hitta filen
+2020-04-25 18:58:31,919 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-22 12:44:57,072 [main] WARN  org.eclipse.jgit.util.FS - Cannot run program "git" (in directory "\usr\bin"): CreateProcess error=2, Det går inte att hitta filen
+2020-06-22 12:45:37,551 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-22 12:45:38,113 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
